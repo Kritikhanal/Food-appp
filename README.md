@@ -1,0 +1,1 @@
+This is a react application where you can search and get different reciepes and mark them as Favourites.
